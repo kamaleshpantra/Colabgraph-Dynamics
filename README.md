@@ -46,8 +46,17 @@ StudyNetwork Analytics explores how student study relationships influence academ
 ---
 
 ## Screenshots
+<img src="data_table.png" alt="Sample Student Data" width="500"/>  
+*Sample dataset of 187 students with lab assignments, gender, exam scores, and final grades, generated for analysis.*
+
 <img src="parallel_coordinates.png" alt="Parallel Coordinate Plot" width="500"/>  
-*(Interactive plot showing study partner changes across exams)*
+*Interactive parallel coordinate plot showing how study partnerships evolve across three exams, colored by Exam 1 scores.*
+
+<img src="homophily_results.png" alt="Homophily Results" width="500"/>  
+*Homophily analysis revealing low lab-based similarity (0.08-0.09) and moderate gender-based similarity (0.49-0.51) in study networks.*
+
+<img src="relationship_analysis.png" alt="Relationship Analysis" width="500"/>  
+*Analysis showing low probability (0.08-0.09) of same-lab study pairs and weak correlation (0.02-0.06) between study partners and final grades.*
 
 ---
 
